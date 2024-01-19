@@ -1,4 +1,5 @@
-README: Neural Network Model for MNIST Handwritten Digit Classification
+Neural Network Model for MNIST Handwritten Digit Classification
+
 Overview
 This script implements a neural network to classify handwritten digits using the MNIST dataset, a standard dataset used in deep learning for image classification. The model is built using TensorFlow and Keras, popular libraries for deep learning in Python.
 
